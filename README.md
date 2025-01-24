@@ -31,7 +31,7 @@ Required tools:
 
 ### Accessing the Tutorial Reference files
 
-In the terminal, enter the `git clone https://gitenterprise.xilinx.com/thomasd/AXI-packaging-and-Linux-driver` command.
+In the terminal, enter the `git clone https://github.com/Xilinx/axi-packaging-and-linux-driver.git` command.
 
 ## Tutorial Overview
 
